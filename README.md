@@ -1,9 +1,9 @@
-👋 Hi, I’m @Ethan-Ahlstrand
-👀 I’m interested in game development
-🌱 I’m currently a Software Developer
-💞️ I’m looking to collaborate on games or cool projects
-📫 How to reach me ethanahlstrand02@gmail.com
-✨ Check out my other account Ethan-Ahlstrand (Link below)
+-👋 Hi, I’m @Ethan-Ahlstrand<br>
+-👀 I’m interested in game development<br>
+-🌱 I’m currently a Software Developer<br>
+-💞️ I’m looking to collaborate on games or cool projects<br>
+-📫 How to reach me ethanahlstrand02@gmail.com<br>
+-✨ Check out my other account Ethan-Ahlstrand<br>
 https://github.com/Ethan-Ahlstrand
 
 <!---
